@@ -9,5 +9,6 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.colorCustomizations": {
         "terminal.ansiGreen": "#ffffff",
+        "terminal.ansiBrightCyan": "#777777"
     },
 }
